@@ -5,7 +5,6 @@ btnStop = document.querySelector('.stop'),
 btnReset = document.querySelector('.reset'),
 train = document.querySelector('.img'),
 buttons = document.querySelector('.buttons');
-console.log('buttons: ', buttons);
 
 let count =0;
 let trainAnimate;
